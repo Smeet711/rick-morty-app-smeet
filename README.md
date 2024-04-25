@@ -10,7 +10,7 @@ Installation
 Clone the repository to your local machine:
 bash
 
-git clone <repository-url>
+git clone https://github.com/Smeet711/rick-morty-app-smeet.git
 Navigate to the project directory:
 bash
 
